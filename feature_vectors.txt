@@ -1,0 +1,25 @@
+Character: makise.png
+Ratio: 6.015642
+Hair color: 0.059032 0.0839771 0.312258
+Face color: 0.788286 0.809499 0.91532
+
+Character: Rei.jpg
+Ratio: 4.378336
+Hair color: 0.712839 0.58377 0.523437
+Face color: 0.860977 0.895465 0.940711
+
+Character: Kagami.jpg
+Ratio: 4.006287
+Hair color: 0.607612 0.45791 0.555818
+Face color: 0.756971 0.81986 0.942748
+
+Character: miyuki.png
+Ratio: 3.933317
+Hair color: 0.730477 0.691041 0.905083
+Face color: 0.883708 0.886338 0.983393
+
+Character: sailor moon2.png
+Ratio: 10.841815
+Hair color: 0.030501 0.816263 0.923768
+Face color: 0.665151 0.781049 0.967377
+
